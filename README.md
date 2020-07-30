@@ -1,15 +1,4 @@
 # cron-tab-test
-.. image:: https://img.shields.io/travis/kraiz/django-crontab/master.svg
-    :target: https://travis-ci.org/kraiz/django-crontab
-.. image:: https://img.shields.io/coveralls/kraiz/django-crontab/master.svg
-    :target: https://coveralls.io/r/kraiz/django-crontab
-.. image:: https://img.shields.io/pypi/v/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
-.. image:: https://img.shields.io/pypi/pyversions/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
-.. image:: https://img.shields.io/pypi/l/django-crontab.svg
-    :target: https://pypi.python.org/pypi/django-crontab
-
 about
 =====
 
